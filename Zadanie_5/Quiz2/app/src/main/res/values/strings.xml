@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="button_show_answer">Pokaż odpowiedź</string>
+    <string name="button_prompt">Podpowiedź</string>
+
+
+    <string name="q_niebo">Czy niebo jest niebieskie?</string>
+    <string name="q_java">Czy Java jest łatwym językiem?</string>
+    <string name="q_nauka">Czy warto się uczyć?</string>
+    <string name="q_studia">Czy wybrałem dobre studia?</string>
+    <string name="q_sens">Czy wszystko ma sens?</string>
+
+    <string name="correct_answer">Dobra odpowiedź!</string>
+    <string name="incorrect_answer">Zła odpowiedź!</string>
+    <string name="answer_was_shown">Odpowiedź została wyświetlona!</string>
+</resources>
