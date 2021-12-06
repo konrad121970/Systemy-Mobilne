@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="medium_top_padding">3dp</dimen>
+    <dimen name="low_left_padding">2dp</dimen>
+    <dimen name="textFieldPadding">5dp</dimen>
+    <dimen name="textFieldSize">20dp</dimen>
+
+</resources>

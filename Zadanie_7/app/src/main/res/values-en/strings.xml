@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="task_done_label">Task is done</string>
+    <string name="task_details_label">Task details</string>
+    <string name="task_name_hint">Go for a walk</string>
+    <string name="task_name_label">Task</string>
+    <string name="show_name_in_details_label">Show name in details in list view</string>
+
+    <string name="task_add_new">New task</string>
+    <string name="show_subtitle">Show subtitle</string>
+    <string name="hide_subtitle">Hide subtitle</string>
+    <string name="subtitle_format">%1$d tasks</string>
+</resources>
