@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="show_subtitle">Pokaż podtytuł</string>
+    <string name="hide_subtitle">Ukryj podtytuł</string>
+    <string name="subtitle_format">Liczba czujników: %d</string>
+    <string name="missing_sensor">Brak czujnika</string>
+    <string name="light_sensor_label">Czujnik światła\n%f lx</string>
+    <string name="accelerometer_sensor_label">Akcelerometr\nx: %f m/s^2\ny: %f m/s^2\nz: %f m/s^2</string>
+</resources>
