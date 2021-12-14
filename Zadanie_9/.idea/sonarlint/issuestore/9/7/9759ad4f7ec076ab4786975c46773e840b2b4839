@@ -1,0 +1,17 @@
+
+P
+java:S1874.":Remove this use of "ViewModelProviders"; it is deprecated.(Ÿ€Ò
+@
+java:S1874."*Remove this use of "of"; it is deprecated.(Ÿ€Ò
+}
+java:S3252W"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(½ÑÕ²
+}
+java:S3252^"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(½ÑÕ²
+‚
+java:S3252b"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Œ¦ˆüÿÿÿÿ
+‚
+java:S3252v"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Œ¦ˆüÿÿÿÿ
+]
+java:S2259S"BA "NullPointerException" could be thrown; "data" is nullable here.(”‘ôÕøÿÿÿÿ
+W
+java:S2259Y"BA "NullPointerException" could be thrown; "data" is nullable here.(ø¥÷U
